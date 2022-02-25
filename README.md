@@ -11,4 +11,4 @@ Design features:
   * Stepped capslock
   * ISO Enter
   * several modifiers altenatives
-  * 
+  
