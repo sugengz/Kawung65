@@ -13,4 +13,4 @@ Design features:
   * several modifiers altenatives
 
 Thanks!
-This project was heavily inspired by https://github.com/coseyfannitutti/discipline and tutorial from https://github.com/TheDeske/Keyboard-PCB-Tutorial.
+This project was heavily inspired by https://github.com/coseyfannitutti/discipline and tutorial from https://wiki.ai03.com/
