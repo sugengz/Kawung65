@@ -11,4 +11,6 @@ Design features:
   * Stepped capslock
   * ISO Enter
   * several modifiers altenatives
-  
+
+Thanks!
+This project was heavily inspired by https://github.com/coseyfannitutti/discipline and tutorial from https://github.com/TheDeske/Keyboard-PCB-Tutorial.
