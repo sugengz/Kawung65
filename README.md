@@ -1,6 +1,8 @@
 # Kawung65
 A 65% keyboard with hot swappable socket and the rest component soldered using THT, with RGB under glow support.
 
+![Kawung65 Keyboard 65% Layout THT](https://user-images.githubusercontent.com/72374465/177046612-7d9d8120-343e-4059-bead-ac7906efb42c.JPG)
+
 ![image](https://user-images.githubusercontent.com/72374465/155692957-9cb3b82f-adf3-48db-9e58-34f704a0f117.png)
 
 * Keyboard Maintainer: [Sugengz](https://github.com/sugengz)
